@@ -106,13 +106,11 @@ streamlit run app/app.py
 
 ![Dashboard](images/dashboard.png)
 
-### 🔹 Sentiment Distribution
+## 📊 Sentiment Distribution
+![Sentiment Distribution](images/sentiment_distribution.png)
 
-![sentiment_distribution](images/sentiment_distribution.png)
-
-### 🔹 Bar Chart
-
-![sentiment_count](images/sentiment_count.png)
+## 📊 Sentiment Count
+![Sentiment Count](images/sentiment_count.png)
 
 ---
 
