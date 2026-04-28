@@ -110,7 +110,7 @@ streamlit run app/app.py
 ![Sentiment Distribution]
 
 ## 📊 Sentiment Count
-![Sentiment Count]([images/sentiment_count.png](https://github.com/afrah-fks/Social-Media-Sentiment-Analysis-Dashboard/blob/main/images/sentiment%20count.png))
+![Sentiment Count](https://github.com/afrah-fks/Social-Media-Sentiment-Analysis-Dashboard/blob/main/images/sentiment%20count.png)
 
 ---
 
