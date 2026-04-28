@@ -107,7 +107,7 @@ streamlit run app/app.py
 ![Dashboard](images/dashboard.png)
 
 ## 📊 Sentiment Distribution
-![Sentiment Distribution]
+![Sentiment Distribution](https://github.com/afrah-fks/Social-Media-Sentiment-Analysis-Dashboard/blob/main/images/sentiment%20distribution.png)
 
 ## 📊 Sentiment Count
 ![Sentiment Count](https://github.com/afrah-fks/Social-Media-Sentiment-Analysis-Dashboard/blob/main/images/sentiment%20count.png)
